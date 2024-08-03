@@ -32,5 +32,6 @@ You can reach me at [jeffwhewhetu@gmail.com](mailto:jeffwhewhetu@gmail.com) or c
 - [Analyzing Students' Mental Health](https://www.datacamp.com/datalab/w/4541e288-4861-4f5c-8f9d-5238756d158e/edit): An Exploratory Data Analysis(EDA) on studen mental health using Python.
 - [International Debt Analysis (SQL)](https://www.datacamp.com/datalab/w/6d78b9cf-ecdf-4270-9ecd-0fc04eac16a2/edit): A data analysis project to uncover countries with highest/lowest debt burdens and potential trends.
 - [Analzing Electric Vehicle Charging Habits (SQL)](https://www.datacamp.com/datalab/w/f6c5bfcd-aaca-42a4-bb8d-4bf7eb96f28e/edit): Analysis of electric vehicles(EV) charging station usage data to identify peak usage times and optimize scheduling.
+- [When Was the Golden Era of Video Games (SQL)](https://www.datacamp.com/datalab/w/c595576c-7af9-432a-a92e-15afe9b441dd/edit): Conducted a data-driven analysis of top-selling video games to identify trends in critical acclaim, user satisfaction, and commercial performance over time, aiming to determine the existence of a "golden age" of gaming. 
 
 ... and many more
