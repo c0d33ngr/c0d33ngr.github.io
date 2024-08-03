@@ -7,7 +7,7 @@ toc = false
 draft = false
 +++
 
-![my picture](jeffrey_small.jpg)
+![my picture](stewie_small.jpg)
 
 I am an open source software developer who love solving problems and everything open source. I am interested in everything STEAM(Science, Technology, Engineering, Arts, & Mathematics).
 

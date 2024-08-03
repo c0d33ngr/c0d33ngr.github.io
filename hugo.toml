@@ -97,10 +97,10 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # By default (or if nothing is specified), summary is used.
 
 [Languages.en-gb.params.author]
-  avatar = "jeffrey.jpg" # put the file in assets folder; also ensure that image has same height and width
+  avatar = "stewie_big.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "c0d33ngr blog"
-  name = "Jeffrey Whewhetu"
+  name = "c0d33ngr"
   description = "An open source software developer with interests in software development, AI/ML, data and cybersecurity."
 
 # Allow to override webmanifest options
