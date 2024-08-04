@@ -3,7 +3,7 @@ title = 'Invitation to participate in ECOWAS CTF Hackathon'
 date = 2024-08-04T22:57:55+01:00
 author = 'c0d33ngr'
 toc = true
-draft = true
+draft = false
 +++
 
 ![cybersecurity image](cyber-security-1805632_640.png)
