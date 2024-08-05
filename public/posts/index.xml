@@ -2,19 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on c0d33ngr blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://c0d33ngr.github.com/posts/</link>
     <description>Recent content in Posts on c0d33ngr blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Aug 2024 22:57:55 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Aug 2024 22:57:55 +0100</lastBuildDate><atom:link href="https://c0d33ngr.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Invitation to participate in ECOWAS CTF Hackathon</title>
-      <link>http://localhost:1313/posts/ecowas-ctf-hackathon/</link>
+      <link>https://c0d33ngr.github.com/posts/ecowas-ctf-hackathon/</link>
       <pubDate>Sun, 04 Aug 2024 22:57:55 +0100</pubDate>
       
-      <guid>http://localhost:1313/posts/ecowas-ctf-hackathon/</guid>
+      <guid>https://c0d33ngr.github.com/posts/ecowas-ctf-hackathon/</guid>
       
-      <description>Introduction I never thought I&amp;rsquo;d be writing this. As a software developer, my world revolves around writing clean and maintainable code, collaborating with fellow software developer in the opensource communities, and also contributing to open-source softwares. But life, as they say, is full of surprises. A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since the application for my team and I to be involved was approved by the organizers, I found myself thrown me headfirst into the ever busy world of cybersecurity.</description>
+      <description>Introduction I never thought I&amp;rsquo;d be writing this. As a software developer, my world revolves around writing clean and maintainable code, collaborating with fellow software developer in the opensource communities, and also contributing to open-source softwares. But life, as they say, is full of surprises.
+A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since the application for my team and I to be involved was approved by the organizers, I found myself thrown headfirst into the ever busy world of cybersecurity.</description>
       
     </item>
     
