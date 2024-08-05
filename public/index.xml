@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on c0d33ngr blog</title>
-    <link>https://c0d33ngr.github.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on c0d33ngr blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Aug 2024 22:57:55 +0100</lastBuildDate><atom:link href="https://c0d33ngr.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 07:27:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Engineering Diagrams for Your Next Projects</title>
+      <link>http://localhost:1313/posts/software-diagrams-for-your-next-opensource-projects/</link>
+      <pubDate>Mon, 05 Aug 2024 07:27:56 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/software-diagrams-for-your-next-opensource-projects/</guid>
+      
+      <description>Introduction Software engineering is the systematic process of designing, developing, testing, and maintaining software applications to meet user requirements. To effectively communicate and understand complex software systems, software engineers rely on a variety of diagrams. These visual representations serve as blueprints, aiding in design, development, and overall project comprehension.
+Understanding Common Software Engineering Diagrams Software engineering diagrams can be categorized based on their purpose. Let&amp;rsquo;s explore some of the most commonly used diagram types.</description>
+      
+    </item>
+    
     <item>
       <title>Invitation to participate in ECOWAS CTF Hackathon</title>
-      <link>https://c0d33ngr.github.com/posts/ecowas-ctf-hackathon/</link>
+      <link>http://localhost:1313/posts/ecowas-ctf-hackathon/</link>
       <pubDate>Sun, 04 Aug 2024 22:57:55 +0100</pubDate>
       
-      <guid>https://c0d33ngr.github.com/posts/ecowas-ctf-hackathon/</guid>
+      <guid>http://localhost:1313/posts/ecowas-ctf-hackathon/</guid>
       
       <description>Introduction I never thought I&amp;rsquo;d be writing this. As a software developer, my world revolves around writing clean and maintainable code, collaborating with fellow software developer in the opensource communities, and also contributing to open-source softwares. But life, as they say, is full of surprises.
 A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since the application for my team and I to be involved was approved by the organizers, I found myself thrown headfirst into the ever busy world of cybersecurity.</description>
@@ -21,10 +33,10 @@ A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since
     
     <item>
       <title>About</title>
-      <link>https://c0d33ngr.github.com/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Wed, 31 Jul 2024 22:30:42 +0100</pubDate>
       
-      <guid>https://c0d33ngr.github.com/pages/about/</guid>
+      <guid>http://localhost:1313/pages/about/</guid>
       
       <description>I am an open source software developer who love solving problems and everything open source. I am interested in everything STEAM(Science, Technology, Engineering, Arts, &amp;amp; Mathematics).
 I studied Electrical/Electronic Engineering Technology from Delta State Polytechnic, Ozoro, Nigeria(now known as Delta State University of Science and Technology). I am pursing a Computer Science degree from University of the People(UoPeople) which is a US distance learning school as part-time study along with MIT OpenCourseWare resources.</description>
