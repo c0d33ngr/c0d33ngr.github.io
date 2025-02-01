@@ -14,8 +14,10 @@
       
       <guid>http://localhost:1313/pages/about/</guid>
       
-      <description>I am an open source software developer who love solving problems and everything open source. I am interested in everything STEAM(Science, Technology, Engineering, Arts, &amp;amp; Mathematics).
-I studied Electrical/Electronic Engineering Technology from Delta State Polytechnic, Ozoro, Nigeria(now known as Delta State University of Science and Technology). I am pursing a Computer Science degree from University of the People(UoPeople) which is a US distance learning school as part-time study along with MIT OpenCourseWare resources.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/stewie_small.jpg&#34; alt=&#34;my picture&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I am an open source software developer who love solving problems and everything open source. I am interested in everything STEAM(Science, Technology, Engineering, Arts, &amp;amp; Mathematics).&lt;/p&gt;
+&lt;p&gt;I studied Electrical/Electronic Engineering Technology from Delta State Polytechnic, Ozoro, Nigeria(now known as Delta State University of Science and Technology).
+I am pursing a Computer Science degree from University of the People(UoPeople) which is a US distance learning school as part-time study along with MIT OpenCourseWare resources.&lt;/p&gt;</description>
       
     </item>
     

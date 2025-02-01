@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/hng12-task-0/</loc>
+    <lastmod>2025-02-01T00:38:08+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-05T07:27:56+01:00</lastmod>
+    <lastmod>2025-02-01T00:38:08+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-05T07:27:56+01:00</lastmod>
+    <lastmod>2025-02-01T00:38:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/software-diagrams-for-your-next-opensource-projects/</loc>
+    <loc>http://localhost:1313/posts/software-engineering-diagrams-for-your-next-project/</loc>
     <lastmod>2024-08-05T07:27:56+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/ecowas-ctf-hackathon/</loc>

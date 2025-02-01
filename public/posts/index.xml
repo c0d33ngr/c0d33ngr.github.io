@@ -6,7 +6,18 @@
     <description>Recent content in Posts on c0d33ngr blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Aug 2024 07:27:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2025 00:38:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hng12 Task 0</title>
+      <link>http://localhost:1313/posts/hng12-task-0/</link>
+      <pubDate>Sat, 01 Feb 2025 00:38:08 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/hng12-task-0/</guid>
+      
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Software Engineering Diagrams for Your Next Projects</title>
       <link>http://localhost:1313/posts/software-engineering-diagrams-for-your-next-project/</link>
@@ -14,8 +25,10 @@
       
       <guid>http://localhost:1313/posts/software-engineering-diagrams-for-your-next-project/</guid>
       
-      <description>Introduction Software engineering is the systematic process of designing, developing, testing, and maintaining software applications to meet user requirements. To effectively communicate and understand complex software systems, software engineers rely on a variety of diagrams. These visual representations serve as blueprints, aiding in design, development, and overall project comprehension.
-Understanding Common Software Engineering Diagrams Software engineering diagrams can be categorized based on their purpose. Let&amp;rsquo;s explore some of the most commonly used diagram types.</description>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Software engineering is the systematic process of designing, developing, testing, and maintaining software applications to meet user requirements. To effectively communicate and understand complex software systems, software engineers rely on a variety of diagrams. These visual representations serve as blueprints, aiding in design, development, and overall project comprehension.&lt;/p&gt;
+&lt;h3 id=&#34;understanding-common-software-engineering-diagrams&#34;&gt;Understanding Common Software Engineering Diagrams&lt;/h3&gt;
+&lt;p&gt;Software engineering diagrams can be categorized based on their purpose. Let&amp;rsquo;s explore some of the most commonly used diagram types.&lt;/p&gt;</description>
       
     </item>
     
@@ -26,8 +39,11 @@ Understanding Common Software Engineering Diagrams Software engineering diagrams
       
       <guid>http://localhost:1313/posts/ecowas-ctf-hackathon/</guid>
       
-      <description>Introduction I never thought I&amp;rsquo;d be writing this. As a software developer, my world revolves around writing clean and maintainable code, collaborating with fellow software developer in the opensource communities, and also contributing to open-source softwares. But life, as they say, is full of surprises.
-A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since the application for my team and I to be involved was approved by the organizers, I found myself thrown headfirst into the ever busy world of cybersecurity.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ecowas-ctf-hackathon/cyber-security-1805632_640.png&#34; alt=&#34;cybersecurity image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I never thought I&amp;rsquo;d be writing this. As a software developer, my world revolves around writing clean and maintainable code, collaborating with fellow software developer in the opensource communities, and also contributing to open-source softwares. But life, as they say, is full of surprises.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/ecowas-ctf-hackathon/ecowas-ctf-invitation.jpg&#34; alt=&#34;ecowas ctf email invitation&#34;&gt;&lt;/p&gt;
+&lt;p&gt;A recent invitation to participate in ECOWAS CTF hackathon was sent to me. Since the application for my team and I to be involved was approved by the organizers, I found myself thrown headfirst into the ever busy world of cybersecurity.&lt;/p&gt;</description>
       
     </item>
     
