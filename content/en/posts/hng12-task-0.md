@@ -18,9 +18,9 @@ As someone with experience in DevOps and infrastructure basics, tasks like setti
 2. **Update and Upgrade the Ubuntu server:**
 
    Immediately i ssh into the server, I ran the command below to update and upgrade the Ubuntu server
-   ```
-   sudo apt update -y && sudo apt upgrade -y
-   ```
+{{ < highlight bash > }}
+sudo apt update -y && sudo apt upgrade -y
+{{ </ highlight > }}
 
 3. **Installing Nginx:**  
    The command I ran to install `nginx` web server:
