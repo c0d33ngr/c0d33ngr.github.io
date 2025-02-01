@@ -75,7 +75,7 @@ While setting up Nginx might feel like a basic task, its mastery contributes to 
 
 This task wasn’t about learning something new—it was a chance to reinforce and refine skills I already possess. It’s a reminder that even basic tasks, when approached thoughtfully, play a critical role in maintaining a strong foundation for advanced projects.
 
-## References
+## **References**
 
 - _DevOps Engineers - https://hng.tech/hire/devops-engineers_
 - _Cloud Engineers - https://hng.tech/hire/cloud-engineers_
