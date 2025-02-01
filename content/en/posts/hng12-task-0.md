@@ -18,6 +18,7 @@ As someone with experience in DevOps and infrastructure basics, tasks like setti
 2. **Update and Upgrade the Ubuntu server:**
 
    Immediately i ssh into the server, I ran the command below to update and upgrade the Ubuntu server
+
 {{ < highlight bash > }}
 sudo apt update -y && sudo apt upgrade -y
 {{ </ highlight > }}
