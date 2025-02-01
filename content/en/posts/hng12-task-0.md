@@ -19,11 +19,11 @@ As someone with experience in DevOps and infrastructure basics, tasks like setti
 
    Immediately i ssh into the server, I ran the command below to update and upgrade the Ubuntu server
 
-{{ < highlight bash > }}
+```bash
 sudo apt update -y && sudo apt upgrade -y
-{{ </ highlight > }}
+```
 
-3. **Installing Nginx:**  
+4. **Installing Nginx:**  
    The command I ran to install `nginx` web server:
    ```bash
    sudo apt install nginx -y
@@ -39,13 +39,13 @@ sudo apt update -y && sudo apt upgrade -y
    sudo systemctl status nginx
    ```
 
-4. **Customizing the Default HTML Page:**  
+5. **Customizing the Default HTML Page:**  
    I edited the default page under `/usr/share/nginx/html/index.html` to serve custom content. With the appropriate permissions, this step was quick and seamless:
    ```bash
    sudo nano /usr/share/nginx/html/index.html
    ```
 
-5. **Testing and Verification:**  
+6. **Testing and Verification:**  
    Accessing the instance’s public IP confirmed the setup was successful and serving the updated content.
 
 ## **Reflections on the Process**
