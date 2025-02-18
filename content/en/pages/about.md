@@ -35,3 +35,32 @@ You can reach me at [jeffwhewhetu@gmail.com](mailto:jeffwhewhetu@gmail.com) or c
 - [When Was the Golden Era of Video Games (SQL)](https://www.datacamp.com/datalab/w/c595576c-7af9-432a-a92e-15afe9b441dd/edit): Conducted a data-driven analysis of top-selling video games to identify trends in critical acclaim, user satisfaction, and commercial performance over time, aiming to determine the existence of a "golden age" of gaming. 
 
 ... and many more
+
+## Open Source Contributions
+
+I actively contribute to various open source projects. Here are some of my notable contributions:
+
+### Recent Merged Pull Requests (2025)
+
+- [Kyo](https://github.com/getkyo/kyo/pull/1062) - Renamed Stream methods prefixed with run for better discoverability
+- [Sapat](https://github.com/nkkko/sapat/pull/9) - Improved devcontainer configuration for better file access
+- [Daytona Content](https://github.com/daytonaio/content/pull/142) - Documentation cleanup and fixes
+- [Mill Build Tool](https://github.com/com-lihaoyi/mill/pull/3931) - Added Android Linting example
+- [Daytona Content](https://github.com/daytonaio/content/pull/117) - Created DuckDB Playground tutorial
+- [Mill Build Tool](https://github.com/com-lihaoyi/mill/pull/3899) - Fixed Scala Native example code
+
+> **Note**: These are just a few highlights! You can view all my [merged contributions on GitHub](https://github.com/search?q=is%3Apr+author%3Ac0d33ngr+is%3Amerged&type=pullrequests).
+
+### Projects I've Contributed To
+
+- [Mill Build Tool](https://github.com/com-lihaoyi/mill) - Scala, Java, Kotlin and other languages build tool in Scala
+- [Kyo](https://github.com/getkyo/kyo) - Functional programming framework written in Scala
+- [Daytona](https://github.com/daytonaio/content) - Development environment platform written in Go
+- [Sapat](https://github.com/nkkko/sapat) - Video transcription tool in Python
+
+My contributions include:
+- Documentation improvements
+- Bug fixes
+- Feature implementations
+- Configuration enhancements
+- Example code development

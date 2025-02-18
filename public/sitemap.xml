@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/hng12-task-0/</loc>
+    <loc>https://c0d33ngr.github.com/posts/hng12-task-0/</loc>
     <lastmod>2025-02-01T00:38:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://c0d33ngr.github.com/</loc>
     <lastmod>2025-02-01T00:38:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://c0d33ngr.github.com/posts/</loc>
     <lastmod>2025-02-01T00:38:08+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/software-engineering-diagrams-for-your-next-project/</loc>
+    <loc>https://c0d33ngr.github.com/posts/software-engineering-diagrams-for-your-next-project/</loc>
     <lastmod>2024-08-05T07:27:56+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ecowas-ctf-hackathon/</loc>
+    <loc>https://c0d33ngr.github.com/posts/ecowas-ctf-hackathon/</loc>
     <lastmod>2024-08-04T22:57:55+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/about/</loc>
+    <loc>https://c0d33ngr.github.com/pages/about/</loc>
     <lastmod>2024-07-31T22:30:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://c0d33ngr.github.com/pages/</loc>
     <lastmod>2024-07-31T22:30:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://c0d33ngr.github.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://c0d33ngr.github.com/tags/</loc>
   </url>
 </urlset>
