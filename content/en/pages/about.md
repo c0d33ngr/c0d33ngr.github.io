@@ -36,6 +36,10 @@ I actively contribute to various open source projects. Here are some of my notab
 
 ### Recent Merged Pull Requests (2025)
 
+- [Sonatype Central Client](https://github.com/lumidion/sonatype-central-client/pull/23) - Added route to check component publish status
+- [Mill Build Tool](https://github.com/com-lihaoyi/mill/pull/4928) - Added Sonatype Central publishing support
+- [JHipster Generator](https://github.com/jhipster/generator-jhipster/pull/29080) - Migrated from Gradle Enterprise to Develocity plugin
+- [Kyo](https://github.com/getkyo/kyo/pull/1112) - Added CONTRIBUTING.md file
 - [Kyo](https://github.com/getkyo/kyo/pull/1062) - Renamed Stream methods prefixed with run for better discoverability
 - [Sapat](https://github.com/nkkko/sapat/pull/9) - Improved devcontainer configuration for better file access
 - [Daytona Content](https://github.com/daytonaio/content/pull/142) - Documentation cleanup and fixes
@@ -48,6 +52,7 @@ I actively contribute to various open source projects. Here are some of my notab
 ### Projects I've Contributed To
 
 - [Mill Build Tool](https://github.com/com-lihaoyi/mill) - Scala, Java, Kotlin and other languages build tool in Scala
+- [JHipster Generator](https://github.com/jhipster/generator-jhipster) - Development platform to quickly generate, develop, & deploy modern web applications & microservice architectures
 - [Kyo](https://github.com/getkyo/kyo) - Functional programming framework written in Scala
 - [Daytona](https://github.com/daytonaio/content) - Development environment platform written in Go
 - [Sapat](https://github.com/nkkko/sapat) - Video transcription tool in Python
