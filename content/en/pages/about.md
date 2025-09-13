@@ -66,7 +66,7 @@ My contributions include:
 
 ## Personal Projects
 
-- **GitHub Bounty Issues Tracker with Alert via  Email/WhatsApp**: Built an automated workflow using n8n and GitHub API to monitor and track bounty-labeled issues, with email/WhatsApp notifications for new opportunities and dual Google Sheets system for comprehensive tracking and historical analysis. Project can be found in GitHub [here](https://github.com/c0d33ngr/n8n-github-bounty-issues-tracker) and a blog post about it [here]()
+- **GitHub Bounty Issues Tracker with Alert via  Email/WhatsApp**: Built an automated workflow using n8n and GitHub API to monitor and track bounty-labeled issues, with email/WhatsApp notifications for new opportunities and dual Google Sheets system for comprehensive tracking and historical analysis. Project can be found in GitHub [here](https://github.com/c0d33ngr/n8n-github-bounty-issues-tracker) and a blog post about it [here](posts/n8n-github-issues-bounty-tracker.md)
 - [Analyzing Students' Mental Health](https://www.datacamp.com/datalab/w/4541e288-4861-4f5c-8f9d-5238756d158e/edit): An Exploratory Data Analysis(EDA) on studen mental health using Python.
 - [International Debt Analysis (SQL)](https://www.datacamp.com/datalab/w/6d78b9cf-ecdf-4270-9ecd-0fc04eac16a2/edit): A data analysis project to uncover countries with highest/lowest debt burdens and potential trends.
 - [Analzing Electric Vehicle Charging Habits (SQL)](https://www.datacamp.com/datalab/w/f6c5bfcd-aaca-42a4-bb8d-4bf7eb96f28e/edit): Analysis of electric vehicles(EV) charging station usage data to identify peak usage times and optimize scheduling.
