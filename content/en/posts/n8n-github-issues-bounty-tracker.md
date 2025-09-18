@@ -1,12 +1,11 @@
 +++
-title = 'N8n Github Issues Bounty Tracker'
+title = 'How I Built an Automated GitHub Issue Bounty Tracker with n8n, Email, and WhatsApp Notifications'
 date = 2025-09-13T05:56:13+01:00
 author = 'c0d33ngr'
 toc = true
 draft = false
 +++
 
-# How I Built an Automated GitHub Bounty Tracker with n8n, Email, and WhatsApp Notifications
 
 ## Why I Needed This Automation
 
